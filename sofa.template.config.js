@@ -6,7 +6,7 @@ module.exports = {
   isBlank: true,
   detail: '通用Vue组件模板；',
   parentId: null,
-  description: 'vue dev component sample, reference',
+  description: 'vue dev component sample, reference: https://github.com/vuesion/vuesion',
   path: 'https://github.com/LeonaYoung/DevComponentVueTs.git',
   version: '0.0.1',
   status: 1,
